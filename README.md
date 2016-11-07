@@ -1,6 +1,6 @@
 # cpppayrollsys
 This is a small C++, file handling based console PayRoll application, which is fully functional.
-You can add ,edit,remove employees.Can search about existing employees.For the employees, some of the features a restricted.
+You can add ,edit,remove employees.Can search about existing employees.For the employees, some of the features are restricted.
 
 - Password for Management Panel: dilshan123
 
