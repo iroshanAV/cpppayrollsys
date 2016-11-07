@@ -5,14 +5,14 @@ Password for Management Panel: dilshan123
 
 1.Home View
 
-######WELCOME TO MAIN PANEL OF THE DILSHAN TEX
+`WELCOME TO MAIN PANEL OF THE DILSHAN TEX
 --------------------------------------------------------------
-Choose which panel do you use : Management[m] or Employee[e]
+Choose which panel do you use : Management[m] or Employee[e] `
 
 
 2.Home View for Management Panel
 
-#######Welcome to the Management Panel of the PayRoll System of DILSHAN TEX
+`Welcome to the Management Panel of the PayRoll System of DILSHAN TEX
 --------------------------------------------------------------
 
 1.Enter a new Employee
@@ -20,20 +20,20 @@ Choose which panel do you use : Management[m] or Employee[e]
 3.Edit details about an existing Employee
 4.Display all the Employees who are currently working with us
 5.Delete all the details about the Employees
-6.Do you want to quit from the program ?
+6.Do you want to quit from the program ? `
 
 
 
 3.Home View for admin panel
 
 
-######Welcome to Employee panel of Dilshan Tex
+`Welcome to Employee panel of Dilshan Tex
 --------------------------------------------------------------
 
 1.Search for an existing Employee
 2.Display all the Employees who are currently working with us
 3.Back to Main Panel ?
-4.Do you want to quit from the program ?
+4.Do you want to quit from the program ?`
 
 
 
