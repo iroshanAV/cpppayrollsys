@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1435458792 source:d:\iroshan\iroshan pro\c plus\check_dilshan\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<stdlib.h>
+
+1435558138 source:c:\users\dell\desktop\check_dilshan\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<stdlib.h>
+
+1435558138 source:d:\iroshan\iroshan lec's\year-1 sem-2\#assignments 2nd semester\check_dilshan\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<stdlib.h>
+
+1449054135 source:d:\iroshan\iroshan lec's\real pro\payroll system for dilshan tex-cpp\check_dilshan\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<stdlib.h>
+
