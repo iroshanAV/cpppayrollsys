@@ -4,7 +4,6 @@ You can add ,edit,remove employees.Can search about existing employees.For the e
 Password for Management Panel: dilshan123
 
 1.Home View
-================================================================================================
 
 WELCOME TO MAIN PANEL OF THE DILSHAN TEX
 *************************************************************
@@ -12,7 +11,6 @@ Choose which panel do you use : Management[m] or Employee[e]
 
 
 2.Home View for Management Panel
-================================================================================================
 
 Welcome to the Management Panel of the PayRoll System of DILSHAN TEX
 *************************************************************
@@ -26,7 +24,8 @@ Welcome to the Management Panel of the PayRoll System of DILSHAN TEX
 
 
 3.Home View for admin panel
-================================================================================================
+
+
 Welcome to Employee panel of Dilshan Tex
 *************************************************************
 1.Search for an existing Employee
