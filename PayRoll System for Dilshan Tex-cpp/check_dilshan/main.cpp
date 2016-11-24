@@ -39,8 +39,6 @@ public:
 
 };
 
-
-
 //////////////////--------------------INPUT-------------------------///////////////////////
 void employee :: input()
 {  system("CLS");
@@ -93,6 +91,7 @@ void employee :: input()
     }
 
 }
+
 //////////////////////////////-------SEARCH BY ID-----------------///////////////////////////
 void employee ::searchnic()
 {   system("CLS");
@@ -114,10 +113,9 @@ void employee ::searchnic()
             cout << "No employee(s) found" << endl;
         }
     searchall();
-
-
 }
 }
+
 ///////////////////////-------SEARCH BY FIRST NAME----------------//////////////////////////////
 void employee :: searchfname()
 {    system("CLS");
@@ -146,6 +144,7 @@ void employee :: searchfname()
             searchall();
 
 }
+
 //////////////////////--------SEARCH BY LAST NAME----------------////////////////////////////
 void employee :: searchlname()
 {   system("CLS");
@@ -173,6 +172,7 @@ if (lname != lastName)
 system("pause");
 searchall();
 }
+
 /////////////////////-------SEARCH SELECTION---------------------////////////////////////////
 void employee :: searchall()
 {
@@ -225,14 +225,13 @@ void employee :: displayall()
     searchall();
 
 }
+
 ////////////////////-------------QUIT----------------------/////////////////////////////
 void employee :: quit()
 {system ("CLS");
  cout << "Thank you for using the PAYROLL SYSTEM of DILSHAN TEX " << endl;
  system ("pause");
 }
-
-
 
 ///////////////////---------------DELETE FILE-----------//////////////////////////////
 void employee :: deletefile()
@@ -250,12 +249,10 @@ void employee :: deletefile()
       int main();
      }
      else{
-
          int main();
           }
-
-
      }
+
 //////////////////////-------------EDIT FILE----------------/////////////////////////
 void employee :: editall()
 {    int choice3;
@@ -296,6 +293,7 @@ void employee :: editall()
         break;
       }
 }
+
 //////////////////////--------------EDIT FISRT NAME -------------/////////////////////////////
 void employee :: editfname()
 {
@@ -327,6 +325,7 @@ void employee :: editfname()
  system("pause");
   searchall();
 }
+
 ///////////////////-------EDIT LAST NAME------//////////////////
 void employee :: editlname()
 {   string choice13;
@@ -358,6 +357,7 @@ void employee :: editlname()
  system("pause");
 searchall();
 }
+
 //////////////////----------EDIT DOB-------------////////////////////
 void employee :: editdob()
 {    system("CLS");
@@ -389,8 +389,6 @@ string choice11;
      empfile4.close();
  system("pause");
 searchall();
-
-
 }
 
 void employee :: choiceone()
@@ -513,8 +511,6 @@ system("CLS");
     break;
     }
 }
-
-
 
 int main()
 {
