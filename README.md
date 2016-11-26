@@ -30,7 +30,7 @@ Welcome to the Management Panel of the PayRoll System of DILSHAN TEX
 ```
 
 
-3.Home View for admin panel
+3.Home View for Admin panel
 
 ```
 
