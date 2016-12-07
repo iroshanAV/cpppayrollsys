@@ -29,7 +29,6 @@ public:
 
 };
 
-
 class management : public employee
 {
 public:
@@ -491,7 +490,6 @@ system("CLS");
     cout <<"4.Do you want to quit from the program ? \n";
     cin >>choose;
 
-
     switch(choose)
     {
     case 1:
@@ -517,8 +515,6 @@ int main()
 system ("title PAYROLL SYSTEM OF DILSHAN TEX ");
 system ("cls");
 system ("color E9");
-
-
 management man;
 man.mainpanel();
 }
